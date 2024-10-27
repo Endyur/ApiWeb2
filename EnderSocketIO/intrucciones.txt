@@ -1,0 +1,7 @@
+El logueo de usuario es de usuario unico, las credenciales son las siguientes: 
+usuario : ender
+contraseña: ender123
+
+para validar el token se debe hacer lo siguiente
+
+ingresar a http://localhost:3001/token?tokeDeAcceso= >justo aqui pegar el token que arroja el login>
